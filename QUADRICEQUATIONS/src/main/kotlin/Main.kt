@@ -1,4 +1,4 @@
-package org.example
+package quadricequation
 fun main() {
     while (true) {
         print("a coefficient:")
