@@ -1,5 +1,4 @@
-package org.example
-
+package quadricequation
 class QuadraticEquation(val a: Double, val b: Double, val c: Double) {
 
 
